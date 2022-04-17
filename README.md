@@ -64,6 +64,6 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-blog-post-workflow.yml
+ 
 <!-- BLOG-POST-LIST:END -->
  
